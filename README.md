@@ -1,7 +1,7 @@
 # SatelliteStereoRectification
 
 
-This is an implementatioin of a stereo rectification method described in
+This is an implementation of a stereo rectification method described in
 
 ```
 @article{Tatar19,
